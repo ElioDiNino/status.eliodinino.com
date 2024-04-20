@@ -38,8 +38,8 @@ status-website:
   favicon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon-96x96.png
   name: Status Page | Elio Di Nino
   introTitle: "Welcome to Elio Di Nino's status page"
-  introMessage: This status page uses real-time data from my [GitHub repository](https://github.com/$OWNER/$REPO)
-  theme: dark
+  introMessage: This status page uses real-time data from my [GitHub repository](https://github.com/ElioDiNino/status.eliodinino.com)
+  theme: night
   navbar:
     - title: Status
       href: /
@@ -50,7 +50,7 @@ status-website:
   metaTags:
     - name: "robots"
       content: "noindex nofollow noarchive noimageindex"
-  robotsText: "User-agent: * \n Disallow: /"
+  robotsText: "User-agent: *\n Disallow: /"
 
 workflowSchedule:
   graphs: "0 0 * * *"
