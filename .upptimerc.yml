@@ -1,36 +1,66 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+# See https://upptime.js.org/docs/configuration
+
+owner: ElioDiNino
+repo: status.eliodinino.com
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Personal Website
+    url: https://eliodinino.com
+    expectedStatusCodes:
+      - 200
+  - name: Personal Website (www)
+    url: https://www.eliodinino.com
+  - name: Personal Links Redirect (links)
+    url: https://links.eliodinino.com
+  - name: Personal Links Redirect (bio)
+    url: https://bio.eliodinino.com
+  - name: Photography Website Redirect
+    url: https://photography.eliodinino.com
+  - name: Photography Website
+    url: https://eliodinino.wixsite.com/photography/
+  - name: MTA-STS Policy Site
+    url: https://mta-sts.eliodinino.com
+  - name: GitHub Profile
+    url: https://github.com/ElioDiNino
+  - name: GitHub Profile (www)
+    url: https://www.github.com/ElioDiNino
+  - name: LinkedIn Profile
+    url: https://linkedin.com/in/eliodinino/
+  - name: LinkedIn Profile (www)
+    url: https://linkedin.com/in/eliodinino/
+  - name: Personal Health Website
+    url: https://health.eliodinino.com
+  - name: Advanced RPAS Page
+    url: https://tc.canada.ca/en/aviation/drone-safety/drone-pilot-licensing/getting-drone-pilot-certificate
+
+assignees:
+  - ElioDiNino
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.eliodinino.com
+  logoUrl: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/site-logo.png
+  favicon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon-96x96.png
+  name: Status Page | Elio Di Nino
+  introTitle: "Welcome to Elio Di Nino's status page"
+  introMessage: This status page uses real-time data from my [GitHub repository](https://github.com/$OWNER/$REPO)
+  theme: dark
   navbar:
     - title: Status
       href: /
+    - title: Website
+      href: https://eliodinino.com
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
+  metaTags:
+    - name: "robots"
+      content: "noindex nofollow noarchive noimageindex"
+  robotsText: "User-agent: * \n Disallow: /"
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/30 * * * *"
