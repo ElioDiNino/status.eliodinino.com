@@ -15,10 +15,12 @@ sites:
     url: eliodinino.com
     port: 443
     check: "tcp-ping"
+    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico
   - name: Personal Website (IPv4 - 80)
     url: eliodinino.com
     port: 80
     check: "tcp-ping"
+    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico
   - name: Personal Website (www)
     url: https://www.eliodinino.com
   - name: Personal Links Redirect (links)
