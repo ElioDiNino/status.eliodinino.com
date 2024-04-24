@@ -11,38 +11,20 @@ sites:
       - 200
   - name: Personal Website (http)
     url: http://eliodinino.com
-    expectedStatusCodes:
-      - 307
-  - name: Personal Website (443 - IPv4)
+  - name: Personal Website (IPv4 - 443)
     url: eliodinino.com
     port: 443
     check: "tcp-ping"
-  - name: Personal Website (443 - IPv6)
-    url: eliodinino.com
-    port: 443
-    check: "tcp-ping"
-    ipv6: true
-  - name: Personal Website (80 - IPv4)
+  - name: Personal Website (IPv4 - 80)
     url: eliodinino.com
     port: 80
     check: "tcp-ping"
-  - name: Personal Website (80 - IPv6)
-    url: eliodinino.com
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
   - name: Personal Website (www)
     url: https://www.eliodinino.com
-    expectedStatusCodes:
-      - 301
   - name: Personal Links Redirect (links)
     url: https://links.eliodinino.com
-    expectedStatusCodes:
-      - 301
   - name: Personal Links Redirect (bio)
     url: https://bio.eliodinino.com
-    expectedStatusCodes:
-      - 301
   - name: Photography Website Redirect
     url: https://photography.eliodinino.com
   - name: Photography Website
