@@ -3,17 +3,46 @@
 owner: ElioDiNino
 repo: status.eliodinino.com
 
+delay: 5000 # 5 seconds
 sites:
   - name: Personal Website
     url: https://eliodinino.com
     expectedStatusCodes:
       - 200
+  - name: Personal Website (http)
+    url: http://eliodinino.com
+    expectedStatusCodes:
+      - 307
+  - name: Personal Website (443 - IPv4)
+    url: eliodinino.com
+    port: 443
+    check: "tcp-ping"
+  - name: Personal Website (443 - IPv6)
+    url: eliodinino.com
+    port: 443
+    check: "tcp-ping"
+    ipv6: true
+  - name: Personal Website (80 - IPv4)
+    url: eliodinino.com
+    port: 80
+    check: "tcp-ping"
+  - name: Personal Website (80 - IPv6)
+    url: eliodinino.com
+    port: 80
+    check: "tcp-ping"
+    ipv6: true
   - name: Personal Website (www)
     url: https://www.eliodinino.com
+    expectedStatusCodes:
+      - 301
   - name: Personal Links Redirect (links)
     url: https://links.eliodinino.com
+    expectedStatusCodes:
+      - 301
   - name: Personal Links Redirect (bio)
     url: https://bio.eliodinino.com
+    expectedStatusCodes:
+      - 301
   - name: Photography Website Redirect
     url: https://photography.eliodinino.com
   - name: Photography Website
@@ -28,6 +57,7 @@ sites:
     url: https://health.eliodinino.com
   - name: Advanced RPAS Page
     url: https://tc.canada.ca/en/aviation/drone-safety/drone-pilot-licensing/getting-drone-pilot-certificate
+    icon: https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico
 
 assignees:
   - ElioDiNino
@@ -59,4 +89,4 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/10 * * * *"
+  uptime: "*/5 * * * *"
