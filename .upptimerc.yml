@@ -29,14 +29,19 @@ sites:
     url: https://bio.eliodinino.com
   - name: Photography Website Redirect
     url: https://photography.eliodinino.com
+    icon: https://raw.githubusercontent.com/ElioDiNino/status.eliodinino.com/master/assets/camera.png
   - name: Photography Website
     url: https://eliodinino.wixsite.com/photography/
+    icon: https://raw.githubusercontent.com/ElioDiNino/status.eliodinino.com/master/assets/camera.png
   - name: MTA-STS Policy Site
     url: https://mta-sts.eliodinino.com
+    icon: https://raw.githubusercontent.com/ElioDiNino/status.eliodinino.com/master/assets/policy.png
   - name: GitHub Profile
     url: https://github.com/ElioDiNino
+    icon: https://github.githubassets.com/favicons/favicon-dark.png
   - name: GitHub Profile (www)
     url: https://www.github.com/ElioDiNino
+    icon: https://github.githubassets.com/favicons/favicon-dark.png
   - name: Personal Health Website
     url: https://health.eliodinino.com
   - name: Advanced RPAS Page
