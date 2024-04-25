@@ -23,10 +23,19 @@ sites:
     icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico
   - name: Personal Website (www)
     url: https://www.eliodinino.com
-  - name: Personal Links Redirect (links)
-    url: https://links.eliodinino.com
+  - name: Personal Website (www - IPv4 - 443)
+    url: www.eliodinino.com
+    port: 443
+    check: "tcp-ping"
+    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico
+  - name: Personal Website (www - IPv4 - 80)
+    url: www.eliodinino.com
+    port: 80
+    check: "tcp-ping"
   - name: Personal Links Redirect (bio)
     url: https://bio.eliodinino.com
+  - name: Personal Links Redirect (links)
+    url: https://links.eliodinino.com
   - name: Photography Website Redirect
     url: https://photography.eliodinino.com
     icon: https://raw.githubusercontent.com/ElioDiNino/status.eliodinino.com/master/assets/camera.png
