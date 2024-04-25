@@ -32,6 +32,7 @@ sites:
     url: www.eliodinino.com
     port: 80
     check: "tcp-ping"
+    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico
   - name: Personal Links Redirect (bio)
     url: https://bio.eliodinino.com
   - name: Personal Links Redirect (links)
