@@ -76,18 +76,20 @@
     "url": "https://www.eliodinino.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.eliodinino.com.ico",
     "slug": "personal-website-www",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 169,
-    "timeDay": 178,
+    "timeDay": 177,
     "timeWeek": 169,
     "timeMonth": 169,
     "timeYear": 169,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-26": 3
+    }
   },
   {
     "name": "Personal Website (www - IPv4 - 443)",
@@ -130,18 +132,20 @@
     "url": "https://bio.eliodinino.com",
     "icon": "https://icons.duckduckgo.com/ip3/bio.eliodinino.com.ico",
     "slug": "personal-links-redirect-bio",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 907,
     "timeDay": 152,
     "timeWeek": 907,
     "timeMonth": 907,
     "timeYear": 907,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-26": 1
+    }
   },
   {
     "name": "Personal Links Redirect (links)",
@@ -155,7 +159,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 153,
+    "timeDay": 152,
     "timeWeek": 148,
     "timeMonth": 148,
     "timeYear": 148,
