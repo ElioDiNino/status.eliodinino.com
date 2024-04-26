@@ -9,51 +9,87 @@ sites:
     url: https://eliodinino.com
     expectedStatusCodes:
       - 200
+  
   - name: Personal Website (http)
     url: http://eliodinino.com
+    
   - name: Personal Website (IPv4 - 443)
     url: eliodinino.com
     port: 443
     check: "tcp-ping"
     icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico
+    
   - name: Personal Website (IPv4 - 80)
     url: eliodinino.com
     port: 80
     check: "tcp-ping"
     icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico
-  - name: Personal Website (www)
-    url: https://www.eliodinino.com
+    
   - name: Personal Website (www - IPv4 - 443)
     url: www.eliodinino.com
     port: 443
     check: "tcp-ping"
     icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico
+    
   - name: Personal Website (www - IPv4 - 80)
     url: www.eliodinino.com
     port: 80
     check: "tcp-ping"
     icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico
-  - name: Personal Links Redirect (bio)
-    url: https://bio.eliodinino.com
+    
   - name: Personal Links Redirect (links)
     url: https://links.eliodinino.com
+    
+  - name: Personal Links Redirect (links - IPv4 - 443)
+    url: links.eliodinino.com
+    port: 443
+    check: "tcp-ping"
+    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico
+    
+  - name: Personal Links Redirect (links - IPv4 - 80)
+    url: links.eliodinino.com
+    port: 80
+    check: "tcp-ping"
+    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico
+    
+  - name: Personal Links Redirect (bio)
+    url: https://bio.eliodinino.com
+
+  - name: Personal Links Redirect (bio - IPv4 - 443)
+    url: bio.eliodinino.com
+    port: 443
+    check: "tcp-ping"
+    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico
+    
+  - name: Personal Links Redirect (bio - IPv4 - 80)
+    url: bio.eliodinino.com
+    port: 80
+    check: "tcp-ping"
+    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico
+    
   - name: Photography Website Redirect
     url: https://photography.eliodinino.com
-    icon: https://raw.githubusercontent.com/ElioDiNino/status.eliodinino.com/master/assets/camera.png
+    icon: https://raw.githubusercontent.com/ElioDiNino/status.eliodinino.com/main/assets/camera.png
+    
   - name: Photography Website
     url: https://eliodinino.wixsite.com/photography/
-    icon: https://raw.githubusercontent.com/ElioDiNino/status.eliodinino.com/master/assets/camera.png
+    icon: https://raw.githubusercontent.com/ElioDiNino/status.eliodinino.com/main/assets/camera.png
+    
   - name: MTA-STS Policy Site
     url: https://mta-sts.eliodinino.com
-    icon: https://raw.githubusercontent.com/ElioDiNino/status.eliodinino.com/master/assets/policy.png
+    icon: https://raw.githubusercontent.com/ElioDiNino/status.eliodinino.com/main/assets/policy.png
+    
   - name: GitHub Profile
     url: https://github.com/ElioDiNino
     icon: https://github.githubassets.com/favicons/favicon-dark.png
+    
   - name: GitHub Profile (www)
     url: https://www.github.com/ElioDiNino
     icon: https://github.githubassets.com/favicons/favicon-dark.png
+    
   - name: Personal Health Website
     url: https://health.eliodinino.com
+    
   - name: Advanced RPAS Page
     url: https://tc.canada.ca/en/aviation/drone-safety/drone-pilot-licensing/getting-drone-pilot-certificate
     icon: https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico
