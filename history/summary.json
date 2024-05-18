@@ -238,19 +238,19 @@
     "url": "https://eliodinino.wixsite.com/photography/",
     "icon": "https://raw.githubusercontent.com/ElioDiNino/status.eliodinino.com/master/assets/camera.png",
     "slug": "photography-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 238,
-    "timeDay": 2180,
-    "timeWeek": 646,
-    "timeMonth": 238,
-    "timeYear": 238,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 234,
+    "timeDay": 1465,
+    "timeWeek": 578,
+    "timeMonth": 234,
+    "timeYear": 234,
     "dailyMinutesDown": {
-      "2024-05-18": 1
+      "2024-05-18": 6
     }
   },
   {
