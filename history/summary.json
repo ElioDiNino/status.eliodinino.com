@@ -238,18 +238,20 @@
     "url": "https://eliodinino.wixsite.com/photography/",
     "icon": "https://raw.githubusercontent.com/ElioDiNino/status.eliodinino.com/master/assets/camera.png",
     "slug": "photography-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 29,
-    "timeWeek": 120,
-    "timeMonth": 139,
-    "timeYear": 139,
-    "dailyMinutesDown": {}
+    "time": 238,
+    "timeDay": 2180,
+    "timeWeek": 646,
+    "timeMonth": 238,
+    "timeYear": 238,
+    "dailyMinutesDown": {
+      "2024-05-18": 1
+    }
   },
   {
     "name": "MTA-STS Policy Site",
