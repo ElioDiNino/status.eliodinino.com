@@ -112,19 +112,19 @@
     "url": "https://links.eliodinino.com",
     "icon": "https://icons.duckduckgo.com/ip3/links.eliodinino.com.ico",
     "slug": "personal-links-redirect-links",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 145,
-    "timeDay": 148,
-    "timeWeek": 125,
-    "timeMonth": 144,
-    "timeYear": 145,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 147,
+    "timeDay": 223,
+    "timeWeek": 147,
+    "timeMonth": 146,
+    "timeYear": 147,
     "dailyMinutesDown": {
-      "2024-05-22": 1
+      "2024-05-22": 6
     }
   },
   {
@@ -168,19 +168,19 @@
     "url": "https://bio.eliodinino.com",
     "icon": "https://icons.duckduckgo.com/ip3/bio.eliodinino.com.ico",
     "slug": "personal-links-redirect-bio",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 399,
-    "timeDay": 155,
-    "timeWeek": 122,
-    "timeMonth": 441,
-    "timeYear": 399,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 396,
+    "timeDay": 210,
+    "timeWeek": 140,
+    "timeMonth": 437,
+    "timeYear": 396,
     "dailyMinutesDown": {
-      "2024-05-22": 1
+      "2024-05-22": 6
     }
   },
   {
@@ -224,19 +224,19 @@
     "url": "https://photography.eliodinino.com",
     "icon": "https://raw.githubusercontent.com/ElioDiNino/status.eliodinino.com/master/assets/camera.png",
     "slug": "photography-website-redirect",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 542,
-    "timeDay": 347,
-    "timeWeek": 1000,
-    "timeMonth": 573,
+    "timeDay": 432,
+    "timeWeek": 939,
+    "timeMonth": 572,
     "timeYear": 542,
     "dailyMinutesDown": {
-      "2024-05-22": 1
+      "2024-05-22": 6
     }
   },
   {
