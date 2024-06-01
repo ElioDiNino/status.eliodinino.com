@@ -13,7 +13,7 @@
     "time": 181,
     "timeDay": 111,
     "timeWeek": 209,
-    "timeMonth": 183,
+    "timeMonth": 186,
     "timeYear": 181,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 96,
     "timeDay": 47,
     "timeWeek": 73,
-    "timeMonth": 98,
+    "timeMonth": 100,
     "timeYear": 96,
     "dailyMinutesDown": {}
   },
@@ -220,10 +220,10 @@
     "url": "https://photography.eliodinino.com",
     "icon": "https://raw.githubusercontent.com/ElioDiNino/status.eliodinino.com/master/assets/camera.png",
     "slug": "photography-website-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 605,
@@ -231,7 +231,9 @@
     "timeWeek": 1060,
     "timeMonth": 731,
     "timeYear": 605,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-01": 2
+    }
   },
   {
     "name": "Photography Website",
