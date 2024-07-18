@@ -112,19 +112,19 @@
     "url": "https://links.eliodinino.com",
     "icon": "https://icons.duckduckgo.com/ip3/links.eliodinino.com.ico",
     "slug": "personal-links-redirect-links",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 209,
-    "timeDay": 1830,
-    "timeWeek": 610,
-    "timeMonth": 347,
+    "timeDay": 1300,
+    "timeWeek": 569,
+    "timeMonth": 344,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2024-07-18": 1
+      "2024-07-18": 18
     }
   },
   {
