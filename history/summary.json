@@ -343,17 +343,19 @@
     "url": "https://tc.canada.ca/en/aviation/drone-safety/drone-pilot-licensing/getting-drone-pilot-certificate",
     "icon": "https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico",
     "slug": "advanced-rpas-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 298,
-    "timeDay": 287,
-    "timeWeek": 322,
-    "timeMonth": 322,
+    "timeDay": 245,
+    "timeWeek": 317,
+    "timeMonth": 320,
     "timeYear": 298,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-07": 0
+    }
   }
 ]
