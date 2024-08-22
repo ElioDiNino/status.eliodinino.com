@@ -289,7 +289,7 @@
     "url": "https://github.com/ElioDiNino",
     "icon": "https://github.githubassets.com/favicons/favicon-dark.png",
     "slug": "git-hub-profile",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -307,9 +307,9 @@
     "url": "https://www.github.com/ElioDiNino",
     "icon": "https://github.githubassets.com/favicons/favicon-dark.png",
     "slug": "git-hub-profile-www",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -318,7 +318,9 @@
     "timeWeek": 143,
     "timeMonth": 129,
     "timeYear": 181,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-22": 0
+    }
   },
   {
     "name": "Personal Health Website",
