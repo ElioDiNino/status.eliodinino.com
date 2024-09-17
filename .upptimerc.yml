@@ -39,6 +39,7 @@ sites:
     
   - name: Personal Links Redirect (links)
     url: https://links.eliodinino.com
+    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico
     
   - name: Personal Links Redirect (links - IPv4 - 443)
     url: links.eliodinino.com
@@ -54,6 +55,7 @@ sites:
     
   - name: Personal Links Redirect (bio)
     url: https://bio.eliodinino.com
+    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico
 
   - name: Personal Links Redirect (bio - IPv4 - 443)
     url: bio.eliodinino.com
