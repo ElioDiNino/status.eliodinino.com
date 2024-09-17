@@ -114,10 +114,10 @@
     "url": "https://links.eliodinino.com",
     "icon": "https://icons.duckduckgo.com/ip3/links.eliodinino.com.ico",
     "slug": "personal-links-redirect-links",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 224,
@@ -126,6 +126,7 @@
     "timeMonth": 263,
     "timeYear": 224,
     "dailyMinutesDown": {
+      "2024-09-17": 1,
       "2024-07-27": 29,
       "2024-07-18": 18
     }
@@ -135,10 +136,10 @@
     "url": "links.eliodinino.com",
     "icon": "https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico",
     "slug": "personal-links-redirect-links-i-pv4-443",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 21,
@@ -146,17 +147,19 @@
     "timeWeek": 30,
     "timeMonth": 26,
     "timeYear": 21,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-17": 1
+    }
   },
   {
     "name": "Personal Links Redirect (links - IPv4 - 80)",
     "url": "links.eliodinino.com",
     "icon": "https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico",
     "slug": "personal-links-redirect-links-i-pv4-80",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 25,
@@ -164,18 +167,20 @@
     "timeWeek": 31,
     "timeMonth": 26,
     "timeYear": 25,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-17": 1
+    }
   },
   {
     "name": "Personal Links Redirect (bio)",
     "url": "https://bio.eliodinino.com",
     "icon": "https://icons.duckduckgo.com/ip3/bio.eliodinino.com.ico",
     "slug": "personal-links-redirect-bio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 275,
     "timeDay": 158,
@@ -183,7 +188,7 @@
     "timeMonth": 240,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2024-09-17": 6
+      "2024-09-17": 1
     }
   },
   {
@@ -191,10 +196,10 @@
     "url": "bio.eliodinino.com",
     "icon": "https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico",
     "slug": "personal-links-redirect-bio-i-pv4-443",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 20,
@@ -202,17 +207,19 @@
     "timeWeek": 30,
     "timeMonth": 26,
     "timeYear": 20,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-17": 1
+    }
   },
   {
     "name": "Personal Links Redirect (bio - IPv4 - 80)",
     "url": "bio.eliodinino.com",
     "icon": "https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico",
     "slug": "personal-links-redirect-bio-i-pv4-80",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 21,
@@ -220,17 +227,19 @@
     "timeWeek": 31,
     "timeMonth": 26,
     "timeYear": 21,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-17": 1
+    }
   },
   {
     "name": "Photography Website Redirect",
     "url": "https://photography.eliodinino.com",
     "icon": "https://raw.githubusercontent.com/ElioDiNino/status.eliodinino.com/master/assets/camera.png",
     "slug": "photography-website-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 695,
@@ -239,6 +248,7 @@
     "timeMonth": 659,
     "timeYear": 695,
     "dailyMinutesDown": {
+      "2024-09-17": 1,
       "2024-08-04": 47,
       "2024-07-26": 33,
       "2024-06-18": 104,
