@@ -283,10 +283,10 @@
     "url": "https://mta-sts.eliodinino.com",
     "icon": "https://raw.githubusercontent.com/ElioDiNino/status.eliodinino.com/master/assets/policy.png",
     "slug": "mta-sts-policy-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 154,
@@ -294,7 +294,9 @@
     "timeWeek": 211,
     "timeMonth": 181,
     "timeYear": 154,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-17": 1
+    }
   },
   {
     "name": "GitHub Profile",
@@ -340,18 +342,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/health.eliodinino.com.ico",
     "slug": "personal-health-website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 150,
     "timeDay": 117,
     "timeWeek": 180,
     "timeMonth": 187,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2024-09-17": 0
+      "2024-09-17": 20
     }
   },
   {
