@@ -283,19 +283,19 @@
     "url": "https://mta-sts.eliodinino.com",
     "icon": "https://raw.githubusercontent.com/ElioDiNino/status.eliodinino.com/master/assets/policy.png",
     "slug": "mta-sts-policy-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 154,
-    "timeDay": 290,
-    "timeWeek": 211,
-    "timeMonth": 181,
+    "timeDay": 213,
+    "timeWeek": 202,
+    "timeMonth": 180,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2024-09-17": 1
+      "2024-09-17": 23
     }
   },
   {
@@ -341,19 +341,19 @@
     "url": "https://health.eliodinino.com",
     "icon": "https://icons.duckduckgo.com/ip3/health.eliodinino.com.ico",
     "slug": "personal-health-website",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.03%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.98%",
     "time": 150,
-    "timeDay": 117,
-    "timeWeek": 180,
-    "timeMonth": 187,
+    "timeDay": 142,
+    "timeWeek": 178,
+    "timeMonth": 186,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2024-09-17": 20
+      "2024-09-17": 43
     }
   },
   {
