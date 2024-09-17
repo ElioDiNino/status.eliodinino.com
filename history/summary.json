@@ -171,19 +171,19 @@
     "url": "https://bio.eliodinino.com",
     "icon": "https://icons.duckduckgo.com/ip3/bio.eliodinino.com.ico",
     "slug": "personal-links-redirect-bio",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 276,
-    "timeDay": 170,
-    "timeWeek": 251,
-    "timeMonth": 244,
-    "timeYear": 276,
+    "time": 275,
+    "timeDay": 158,
+    "timeWeek": 238,
+    "timeMonth": 240,
+    "timeYear": 275,
     "dailyMinutesDown": {
-      "2024-09-17": 1
+      "2024-09-17": 6
     }
   },
   {
