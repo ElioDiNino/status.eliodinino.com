@@ -76,6 +76,14 @@ sites:
   - name: Photography Website
     url: https://eliodinino.wixsite.com/photography/
     icon: https://raw.githubusercontent.com/ElioDiNino/status.eliodinino.com/master/assets/camera.png
+
+  - name: Homelab Landing Page
+    url: https://internal.eliodinino.com
+    expectedStatusCodes:
+      - 200
+  
+  - name: Homelab Landing Page (http)
+    url: http://internal.eliodinino.com
     
   - name: MTA-STS Policy Site
     url: https://mta-sts.eliodinino.com
