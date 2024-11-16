@@ -88,6 +88,14 @@ sites:
   - name: MTA-STS Policy Site
     url: https://mta-sts.eliodinino.com
     icon: https://raw.githubusercontent.com/ElioDiNino/status.eliodinino.com/master/assets/policy.png
+
+  - name: PGP Security Key Redirect
+    url: https://pgp.eliodinino.com
+    icon: https://raw.githubusercontent.com/ElioDiNino/status.eliodinino.com/master/assets/policy.png
+
+  - name: PGP Security Key
+    url: https://keys.openpgp.org/search?q=security%40eliodinino.com
+    icon: https://raw.githubusercontent.com/ElioDiNino/status.eliodinino.com/master/assets/policy.png
     
   - name: GitHub Profile
     url: https://github.com/ElioDiNino
