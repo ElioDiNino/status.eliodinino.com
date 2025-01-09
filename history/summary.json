@@ -116,9 +116,9 @@
     "slug": "personal-links-redirect-links",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 200,
     "timeDay": 149,
@@ -126,7 +126,6 @@
     "timeMonth": 164,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2025-01-08": 8,
       "2024-09-17": 20,
       "2024-07-27": 29,
       "2024-07-18": 18
@@ -179,9 +178,9 @@
     "slug": "personal-links-redirect-bio",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 214,
     "timeDay": 138,
@@ -189,7 +188,6 @@
     "timeMonth": 123,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2025-01-08": 6,
       "2024-09-17": 20
     }
   },
