@@ -341,19 +341,19 @@
     "url": "https://pgp.eliodinino.com",
     "icon": "https://raw.githubusercontent.com/ElioDiNino/status.eliodinino.com/master/assets/policy.png",
     "slug": "pgp-security-key-redirect",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1234,
-    "timeDay": 952,
-    "timeWeek": 884,
-    "timeMonth": 1102,
-    "timeYear": 1234,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1230,
+    "timeDay": 942,
+    "timeWeek": 890,
+    "timeMonth": 1097,
+    "timeYear": 1230,
     "dailyMinutesDown": {
-      "2025-01-26": 1
+      "2025-01-26": 6
     }
   },
   {
@@ -361,19 +361,19 @@
     "url": "https://keys.openpgp.org/search?q=security%40eliodinino.com",
     "icon": "https://raw.githubusercontent.com/ElioDiNino/status.eliodinino.com/master/assets/policy.png",
     "slug": "pgp-security-key",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 122,
-    "timeDay": 351,
-    "timeWeek": 172,
-    "timeMonth": 128,
-    "timeYear": 122,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 123,
+    "timeDay": 287,
+    "timeWeek": 170,
+    "timeMonth": 129,
+    "timeYear": 123,
     "dailyMinutesDown": {
-      "2025-01-26": 1
+      "2025-01-26": 6
     }
   },
   {
