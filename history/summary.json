@@ -377,19 +377,19 @@
     "url": "https://github.com/ElioDiNino",
     "icon": "https://github.githubassets.com/favicons/favicon-dark.png",
     "slug": "git-hub-profile",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 442,
-    "timeDay": 385,
-    "timeWeek": 447,
-    "timeMonth": 420,
+    "timeDay": 449,
+    "timeWeek": 455,
+    "timeMonth": 423,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2025-06-13": 2
+      "2025-06-13": 16
     }
   },
   {
