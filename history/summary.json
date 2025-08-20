@@ -4,19 +4,19 @@
     "url": "https://eliodinino.com",
     "icon": "https://icons.duckduckgo.com/ip3/eliodinino.com.ico",
     "slug": "personal-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 1848,
-    "timeWeek": 614,
-    "timeMonth": 326,
-    "timeYear": 223,
+    "time": 209,
+    "timeDay": 1454,
+    "timeWeek": 620,
+    "timeMonth": 336,
+    "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-08-20": 2
+      "2025-08-20": 12
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "http://eliodinino.com",
     "icon": "https://icons.duckduckgo.com/ip3/eliodinino.com.ico",
     "slug": "personal-website-http",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 85,
-    "timeDay": 2088,
-    "timeWeek": 585,
-    "timeMonth": 215,
-    "timeYear": 81,
+    "timeDay": 1565,
+    "timeWeek": 577,
+    "timeMonth": 224,
+    "timeYear": 82,
     "dailyMinutesDown": {
-      "2025-08-20": 2
+      "2025-08-20": 12
     }
   },
   {
