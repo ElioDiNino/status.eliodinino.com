@@ -4,18 +4,20 @@
     "url": "https://eliodinino.com",
     "icon": "https://icons.duckduckgo.com/ip3/eliodinino.com.ico",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 221,
     "timeDay": 353,
-    "timeWeek": 282,
+    "timeWeek": 263,
     "timeMonth": 267,
     "timeYear": 234,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-11": 2
+    }
   },
   {
     "name": "Personal Website (http)",
