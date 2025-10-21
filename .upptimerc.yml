@@ -17,57 +17,57 @@ sites:
     url: eliodinino.com
     port: 443
     check: "tcp-ping"
-    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico
+    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/public/favicon.ico
     
   - name: Personal Website (IPv4 - 80)
     url: eliodinino.com
     port: 80
     check: "tcp-ping"
-    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico
+    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/public/favicon.ico
     
   - name: Personal Website (www - IPv4 - 443)
     url: www.eliodinino.com
     port: 443
     check: "tcp-ping"
-    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico
+    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/public/favicon.ico
     
   - name: Personal Website (www - IPv4 - 80)
     url: www.eliodinino.com
     port: 80
     check: "tcp-ping"
-    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico
+    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/public/favicon.ico
     
   - name: Personal Links Redirect (links)
     url: https://links.eliodinino.com
-    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico
+    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/public/favicon.ico
     
   - name: Personal Links Redirect (links - IPv4 - 443)
     url: links.eliodinino.com
     port: 443
     check: "tcp-ping"
-    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico
+    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/public/favicon.ico
     
   - name: Personal Links Redirect (links - IPv4 - 80)
     url: links.eliodinino.com
     port: 80
     check: "tcp-ping"
-    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico
+    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/public/favicon.ico
     
   - name: Personal Links Redirect (bio)
     url: https://bio.eliodinino.com
-    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico
+    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/public/favicon.ico
 
   - name: Personal Links Redirect (bio - IPv4 - 443)
     url: bio.eliodinino.com
     port: 443
     check: "tcp-ping"
-    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico
+    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/public/favicon.ico
     
   - name: Personal Links Redirect (bio - IPv4 - 80)
     url: bio.eliodinino.com
     port: 80
     check: "tcp-ping"
-    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon.ico
+    icon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/public/favicon.ico
     
   - name: Photography Website Redirect
     url: https://photography.eliodinino.com
@@ -113,8 +113,8 @@ assignees:
 
 status-website:
   cname: status.eliodinino.com
-  logoUrl: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/site-logo.png
-  favicon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/website/public/favicon-96x96.png
+  logoUrl: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/public/site-logo.png
+  favicon: https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/public/favicon-96x96.png
   name: Status Page | Elio Di Nino
   introTitle: "Welcome to Elio Di Nino's status page"
   introMessage: This status page uses real-time data from my [GitHub repository](https://github.com/ElioDiNino/status.eliodinino.com)
