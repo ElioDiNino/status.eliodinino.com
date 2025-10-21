@@ -107,10 +107,6 @@ sites:
     
   - name: Personal Health Website
     url: https://health.eliodinino.com
-    
-  - name: Advanced RPAS Page
-    url: https://tc.canada.ca/en/aviation/drone-safety/drone-pilot-licensing/getting-drone-pilot-certificate
-    icon: https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico
 
 assignees:
   - ElioDiNino
