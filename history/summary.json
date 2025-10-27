@@ -112,19 +112,19 @@
     "url": "https://links.eliodinino.com",
     "icon": "https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/public/favicon.ico",
     "slug": "personal-links-redirect-links",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 219,
-    "timeDay": 200,
-    "timeWeek": 224,
-    "timeMonth": 239,
-    "timeYear": 207,
+    "time": 220,
+    "timeDay": 391,
+    "timeWeek": 259,
+    "timeMonth": 249,
+    "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-10-27": 2
+      "2025-10-27": 10
     }
   },
   {
