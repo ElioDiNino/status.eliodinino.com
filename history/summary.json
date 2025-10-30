@@ -314,19 +314,19 @@
     "url": "https://pgp.eliodinino.com",
     "icon": "https://raw.githubusercontent.com/ElioDiNino/status.eliodinino.com/master/assets/policy.png",
     "slug": "pgp-security-key-redirect",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1013,
-    "timeDay": 915,
-    "timeWeek": 719,
+    "time": 1012,
+    "timeDay": 921,
+    "timeWeek": 745,
     "timeMonth": 930,
-    "timeYear": 1013,
+    "timeYear": 1012,
     "dailyMinutesDown": {
-      "2025-10-30": 1
+      "2025-10-30": 17
     }
   },
   {
