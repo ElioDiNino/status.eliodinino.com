@@ -166,19 +166,19 @@
     "url": "https://bio.eliodinino.com",
     "icon": "https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/public/favicon.ico",
     "slug": "personal-links-redirect-bio",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 161,
-    "timeDay": 76,
-    "timeWeek": 197,
-    "timeMonth": 177,
+    "timeDay": 87,
+    "timeWeek": 184,
+    "timeMonth": 175,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-11-17": 1
+      "2025-11-17": 13
     }
   },
   {
