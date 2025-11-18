@@ -4,19 +4,19 @@
     "url": "https://eliodinino.com",
     "icon": "https://icons.duckduckgo.com/ip3/eliodinino.com.ico",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 84,
-    "timeWeek": 177,
-    "timeMonth": 320,
+    "timeDay": 102,
+    "timeWeek": 175,
+    "timeMonth": 315,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-11-18": 12
+      "2025-11-18": 2
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "personal-website-http",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 89,
     "timeDay": 43,
@@ -36,7 +36,7 @@
     "timeMonth": 92,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2025-11-18": 14
+      "2025-11-18": 20
     }
   },
   {
@@ -116,19 +116,19 @@
     "url": "https://links.eliodinino.com",
     "icon": "https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/public/favicon.ico",
     "slug": "personal-links-redirect-links",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 83,
-    "timeWeek": 170,
-    "timeMonth": 200,
+    "timeDay": 101,
+    "timeWeek": 168,
+    "timeMonth": 199,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2025-11-18": 12
+      "2025-11-18": 2
     }
   },
   {
@@ -172,19 +172,19 @@
     "url": "https://bio.eliodinino.com",
     "icon": "https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/public/favicon.ico",
     "slug": "personal-links-redirect-bio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 74,
+    "timeDay": 94,
     "timeWeek": 153,
     "timeMonth": 165,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-11-18": 12
+      "2025-11-18": 1
     }
   },
   {
