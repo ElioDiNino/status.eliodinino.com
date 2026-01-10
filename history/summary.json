@@ -25,10 +25,10 @@
     "url": "http://eliodinino.com",
     "icon": "https://icons.duckduckgo.com/ip3/eliodinino.com.ico",
     "slug": "personal-website-http",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 88,
@@ -37,6 +37,7 @@
     "timeMonth": 81,
     "timeYear": 97,
     "dailyMinutesDown": {
+      "2026-01-10": 2,
       "2026-01-06": 16,
       "2025-11-18": 52
     }
