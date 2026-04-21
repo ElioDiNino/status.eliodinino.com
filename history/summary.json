@@ -122,10 +122,10 @@
     "url": "https://links.eliodinino.com",
     "icon": "https://raw.githubusercontent.com/ElioDiNino/eliodinino.com/main/public/favicon.ico",
     "slug": "personal-links-redirect-links",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 212,
@@ -134,6 +134,7 @@
     "timeMonth": 218,
     "timeYear": 214,
     "dailyMinutesDown": {
+      "2026-04-21": 2,
       "2026-01-27": 21,
       "2025-11-18": 34
     }
