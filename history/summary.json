@@ -250,11 +250,11 @@
     "icon": "https://raw.githubusercontent.com/ElioDiNino/status.eliodinino.com/master/assets/camera.png",
     "slug": "photography-website-redirect",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.95%",
+    "uptimeDay": "89.97%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.94%",
     "time": 656,
     "timeDay": 146,
     "timeWeek": 1059,
@@ -264,7 +264,7 @@
       "2026-03-04": 64,
       "2026-03-08": 26,
       "2026-03-16": 56,
-      "2026-08-01": 2
+      "2026-08-01": 144
     }
   },
   {
@@ -272,23 +272,23 @@
     "url": "https://eliodinino.wixsite.com/photography/",
     "icon": "https://raw.githubusercontent.com/ElioDiNino/status.eliodinino.com/master/assets/camera.png",
     "slug": "photography-website",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "90.08%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.94%",
     "time": 181,
-    "timeDay": 123,
-    "timeWeek": 293,
-    "timeMonth": 375,
+    "timeDay": 111,
+    "timeWeek": 270,
+    "timeMonth": 367,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2026-03-04": 64,
       "2026-03-08": 26,
       "2026-03-16": 56,
       "2026-03-31": 49,
-      "2026-08-01": 1
+      "2026-08-01": 143
     }
   },
   {
