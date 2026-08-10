@@ -1,5 +1,9 @@
 # See https://upptime.js.org/docs/configuration
 
+secrets:
+  - NOTIFICATION_DISCORD
+  - NOTIFICATION_DISCORD_WEBHOOK_URL
+
 owner: ElioDiNino
 repo: status.eliodinino.com
 
